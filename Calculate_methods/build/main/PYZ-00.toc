@@ -254,9 +254,6 @@
   ('tracemalloc',
    'C:\\Users\\Андрей\\AppData\\Local\\Programs\\Python\\Python310\\lib\\tracemalloc.py',
    'PYMODULE'),
-  ('_py_abc',
-   'C:\\Users\\Андрей\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_py_abc.py',
-   'PYMODULE'),
   ('tempfile',
    'C:\\Users\\Андрей\\AppData\\Local\\Programs\\Python\\Python310\\lib\\tempfile.py',
    'PYMODULE'),
@@ -292,4 +289,7 @@
    'PYMODULE'),
   ('stringprep',
    'C:\\Users\\Андрей\\AppData\\Local\\Programs\\Python\\Python310\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Андрей\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_py_abc.py',
    'PYMODULE')])
